@@ -1,0 +1,33 @@
+{
+  "index": "Willkommen",
+  "-": {
+    "type": "separator",
+    "title": "Dokumentation Benutzer"
+  },
+  "installation": "Installation",
+  "registrierung": "Registrierung",
+  "familienmitglieder": "Familienmitglieder",
+  "angebote": "Angebote",
+  "benachrichtigung": "Benachrichtigung",
+  "Entdecken": "Entdecken",
+  "--": {
+    "type": "separator",
+    "title": "Dokumentation Verwaltung"
+  },
+  "nachrichten": "Nachrichten",
+  "personen": "Personen",
+  "gruppen": "Gruppen",
+  "einladungen": "Einladungen",
+  "angebote2": "Angebote",
+  "schließtage": "Schließtage",
+  "berichte": "Berichte",
+  "labels": "Labels",
+  "---": {
+    "type": "separator",
+    "title": "Links"
+  },
+  "github_link": {
+    "title": "Impressum",
+    "href": "https://www.kitamia.de/impressum"
+  }
+}
