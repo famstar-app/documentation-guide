@@ -1,27 +1,25 @@
 {
-  "index": "Willkommen",
-  "-": {
-    "type": "separator",
-    "title": "Dokumentation Benutzer"
+  "index": {
+    "title": "Startseite",
+    "type": "page",
+    "theme": {
+      "layout": "full"
+    }
   },
-  "installation": "Installation",
-  "registrierung": "Registrierung",
-  "familienmitglieder": "Familienmitglieder",
-  "angebote": "Angebote",
-  "benachrichtigung": "Benachrichtigung",
-  "Entdecken": "Entdecken",
-  "--": {
-    "type": "separator",
-    "title": "Dokumentation Verwaltung"
+  "documentation": {
+    "title": "Dokumentation",
+    "type": "menu",
+    "items": {
+      "documentation-user": {
+        "title": "Dokumentation für Anwender:innen",
+        "href": "/documentation/user/installation"
+      },
+      "documentation-admin": {
+        "title": "Dokumentation für Verwaltung",
+        "href": "/documentation/admin/installation"
+      }
+    }
   },
-  "nachrichten": "Nachrichten",
-  "personen": "Personen",
-  "gruppen": "Gruppen",
-  "einladungen": "Einladungen",
-  "angebote2": "Angebote",
-  "schließtage": "Schließtage",
-  "berichte": "Berichte",
-  "labels": "Labels",
   "---": {
     "type": "separator",
     "title": "Links"

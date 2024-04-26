@@ -3,7 +3,7 @@ import Image from 'next/image'
 export default {
   logo: <Image src="/famstar-logo.png" alt="famstar logo" width={80} height={61} />,
   project: {
-    link: 'https://github.com/shuding/nextra',
+    link: 'https://github.com/famstar-app/documentation-guide',
   },
   search: {
     placeholder: 'Suchen',

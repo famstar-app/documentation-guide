@@ -1,0 +1,9 @@
+{
+  "-info-": {
+    "type": "separator",
+    "title": "Info"
+  },
+  "welcome": "Einleitung",
+  "user": "Anwender:innen",
+  "admin": "Verwaltung"
+}
